@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="typing.Iterator.__getitem__" />
+          <option value="collections.__init__.OrderedDict.*" />
         </list>
       </option>
     </inspection_tool>
