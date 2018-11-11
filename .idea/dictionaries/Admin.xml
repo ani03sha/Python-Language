@@ -2,6 +2,7 @@
   <dictionary name="Admin">
     <words>
       <w>aeiou</w>
+      <w>multiline</w>
       <w>rangoli</w>
       <w>rupal</w>
       <w>subsegments</w>
